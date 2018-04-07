@@ -1,0 +1,1207 @@
+newmtl MasonryWall:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall2:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall3:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall4:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall5:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall6:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall7:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall8:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall10:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall11:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall12:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall13:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall14:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:Stone_Masonry_Multi
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:Stone_Masonry_Multi1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi1_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:Stone_Masonry_Multi2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi2_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:Stone_Masonry_Multi3_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi3_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:Stone_Masonry_Multi4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi4_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:Stone_Masonry_Multi5_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi5_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:Stone_Masonry_Multi6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi6_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl MasonryWall15:Stone_Masonry_Multi7_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Stone_Masonry_Multi7_.ppm
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/sky_sunset.ppm
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Sign.ppm
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/oldwood.ppm
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/diffuse.ppm
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/Light-Texture-Brown-Wood-HD-Wallpaper1.ppm
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/concrete_floor.ppm
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/bang.ppm
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/left-sign.ppm
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/right-sign.ppm
+Ni 1.00
+newmtl pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/oldwood.ppm
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.23 1.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 18.00
+newmtl target:Material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Textures/target2.ppm
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
